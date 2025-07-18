@@ -1,1 +1,1 @@
-# Idol-Fashion-Websie
+# Idol-Fashion-Website
